@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationAlarm</string>
+    <string name="notification_alarm_title">Reminder</string>
+    <string name="notification_alarm_text">You haven\'t ordered for 2 weeks</string>
+</resources>
